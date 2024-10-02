@@ -1,0 +1,1 @@
+values = ['hello' 50 True 10.4 ]
